@@ -8,8 +8,8 @@ android {
         applicationId "org.androplus.koruri"
         minSdkVersion 19
         targetSdkVersion 21
-        versionCode 1
-        versionName "1.0"
+        versionCode 20161105
+        versionName "20161105"
     }
     buildTypes {
         release {
